@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Franchise;
+    src: url("fonts/Franchise-Regular.ttf") format("ttf");
+    src: url("fonts/Franchise-Regular.eot") format("eot");
+    src: url("fonts/Franchise-Regular.woff") format("woff");
+    src: url("fonts/Franchise-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: Milestone;
+    src: url("fonts/MilestoneFreeVersion-script.ttf") format("ttf");
+    src: url("fonts/MilestoneFreeVersion-script.eot") format("eot");
+    src: url("fonts/MilestoneFreeVersion-script.woff") format("woff");
+    src: url("fonts/MilestoneFreeVersion-script.woff2") format("woff2");
+}
+@font-face {
+    font-family: MarketDeco;
+    src: url("fonts/MarketDeco.ttf") format("ttf");
+    src: url("fonts/MarketDeco.eot") format("eot");
+    src: url("fonts/MarketDeco.woff") format("woff");
+    src: url("fonts/MarketDeco.woff2") format("woff2");
+}
+@font-face {
+    font-family: VintageWarehouse;
+    src: url("fonts/VintageWarehouse.ttf") format("ttf");
+    src: url("fonts/VintageWarehouse.eot") format("eot");
+    src: url("fonts/VintageWarehouse.woff") format("woff");
+    src: url("fonts/VintageWarehouse.woff2") format("woff2");
+}
